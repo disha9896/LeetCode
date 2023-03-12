@@ -3,6 +3,7 @@ Leet code problem solutions
 
 |#|Title|Solution|Difficulty|
 |---|---|---|---|
-|1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](https://github.com/disha9896/LeetCode/blob/main/contains_duplicate.py)|Easy|
-|2|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](https://github.com/disha9896/LeetCode/blob/main/valid_anagram.py)|Easy|
-|3|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/twoSum.py)|Easy|
+|1|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)|[Python](https://github.com/disha9896/LeetCode/blob/main/1_contains_duplicate.py)|Easy|
+|2|[Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)|[Python](https://github.com/disha9896/LeetCode/blob/main/2_valid_anagram.py)|Easy|
+|3|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/3_two_sum.py)|Easy|
+|4|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/4_group_anagrams.py)|Medium|
