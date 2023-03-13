@@ -8,3 +8,4 @@ Leet code problem solutions
 |3|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/3_two_sum.py)|Easy|
 |4|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/4_group_anagram.py)|Medium|
 |5|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/5_replace_elements.py)|Easy|
+|6|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)|[python](https://github.com/disha9896/LeetCode/blob/main/6_concat_array.py)|Easy|
